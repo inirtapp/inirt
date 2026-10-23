@@ -1,2 +1,0 @@
-# inirt
-inirtapp
